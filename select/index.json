@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビビッド",
+  "base_artist": "tayori",
+  "createdAt": "2025-12-11T11:59:56.038625Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビビッド",
+      "artist": "tayori",
+      "has_synced": false,
+      "path": "select/pl_01_ビビッド_tayori.txt"
+    }
+  ]
+}
